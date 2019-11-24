@@ -8,7 +8,7 @@ Extinction Counter for MagicMirror. Will we be next?
 
 * Config option for text color
 
-![](images/1.png)
+![](images/2.png)
 
 ## Installation
 
